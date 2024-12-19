@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 
 <h2 align="center"> 😭😭 Info 😭😭 </h2>
-Some projects are not finished and there is no indication of this!!!! So it's normal that sometimes it doesn't work. 😭😭
+<p align="center">Some projects are not finished and there is no indication of this!!!! So it's normal that sometimes it doesn't work. 😭😭</p>
