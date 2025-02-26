@@ -1,35 +1,33 @@
-<h1 align="center">  Welcome to my Github 👋 </h2>
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p> -->
 
-<!--
-**EnzoPasselegue1/EnzoPasselegue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Enzo</h1>
+<h3 align="center">A passionate developer from France</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center"> ⚡⚡⚡ My language and tools ⚡⚡⚡ </h2>
-<p align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white " />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></p>
-
-<h2 align="center"> 🔥🔥🔥 Who am i ? 🔥🔥🔥 </h2>
-<p align="center">As a student at 42, I'm working on projects to learn new skills in C first, then in C++ in the future. Don't hesitate to have a look at my repository !!! </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
 
-<h2 align="center">📫📫📫 Where to find me 📫📫📫 </h2>
-<p align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></p>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EnzoPasselegue1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<h2 align="center"> 😭😭 Info 😭😭 </h2>
-<p align="center">Some projects are not finished and there is no indication of this!!!! So it's normal that sometimes it doesn't work. 😭😭</p>
+![](https://raw.githubusercontent.com/EnzoPasselegue1/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/EnzoPasselegue1/github-stats-transparent/output/generated/languages.svg)
+
+### :dart: Weekly Fuck The Code
+
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+  
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🔒 Minishell [35] (https://github.com/SimonCottenet/minishell)
+<!--END_SECTION:activity-->
