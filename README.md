@@ -29,5 +29,5 @@ No activity tracked
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Minishell [35] (https://github.com/SimonCottenet/minishell)
+1. 🔒 Minishell (https://github.com/SimonCottenet/minishell)
 <!--END_SECTION:activity-->
