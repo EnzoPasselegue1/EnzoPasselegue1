@@ -13,8 +13,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=EnzoPasselegue1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/EnzoPasselegue1/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/EnzoPasselegue1/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPasselegue1)](https://github.com/EnzoPasselegue1/github-readme-stats)
+
 
 ### :dart: Weekly Fuck The Code
 
