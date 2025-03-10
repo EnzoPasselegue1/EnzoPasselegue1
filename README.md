@@ -11,7 +11,7 @@
 
 
 ![Enzo's GitHub stats](https://github-readme-stats-six-taupe.vercel.app/api?username=EnzoPasselegue1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPasselegue1&layout=donut&theme=radical)](https://github.com/EnzoPasselegue1/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-taupe.vercel.app/api/top-langs/?username=EnzoPasselegue1&layout=donut&theme=radical)](https://github.com/EnzoPasselegue1/github-readme-stats)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/enpassel?ext=activity" alt="LeetCode Card">
