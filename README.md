@@ -31,5 +31,6 @@ No activity tracked
 
 <!--START_SECTION:activity-->
 1. 🔒 Minishell (https://github.com/SimonCottenet/minishell)
-2. 🔒 Testeur_minishell (https://github.com/EnzoPasselegue1/Minishell_testeur)
+2. 🔓 Testeur_minishell (https://github.com/EnzoPasselegue1/Minishell_testeur)
+3. 🔓 Push and rebase automatiquement (https://github.com/EnzoPasselegue1/Push_and_rebase)
 <!--END_SECTION:activity-->
